@@ -5,6 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("兄弟");
 		System.out.println("嫖去吗？");
+		System.out.println("走起走起");
 	}
 
 }
