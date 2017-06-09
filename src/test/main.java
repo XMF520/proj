@@ -6,7 +6,11 @@ public class main {
 		System.out.println("兄弟");
 		System.out.println("嫖去吗？");
 		System.out.println("走起走起");
-		System.out.println("海航请客");   			
+		System.out.println("海航请客"); 
+		System.out.println("海航请客"); 
+		System.out.println("海航请客"); 
+		System.out.println("海航请客"); 
+		System.out.println("海航请客"); 
 	}
 
 }
